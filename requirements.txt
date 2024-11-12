@@ -5,4 +5,5 @@ pandas
 requests
 pydantic
 numpy
+scikit-learn
 
